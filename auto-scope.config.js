@@ -9,5 +9,6 @@ export default {
   writeRuntimeMap: false, // Write the map needed for runtime scoping
   teamRepo: false, // Scan team files for usage and only enable hash/ID if module name is already used
   flattenCombis: [], //Flatten combinators, e.g. > becomes _a_
+  globalCss: 'page.css',
   overrideConfig: {},
 };

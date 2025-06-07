@@ -1,0 +1,9 @@
+body 
+{
+    background: url(../../public/images/pattern-background-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #E0E8FF;
+    margin:0;
+    padding:0 6.4%;
+}
